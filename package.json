@@ -1,0 +1,11 @@
+{
+  "name": "fb-social-graph",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Tmin10",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  }
+}
